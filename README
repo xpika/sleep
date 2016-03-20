@@ -1,1 +1,6 @@
-ZZzzzZZZ
+# time ./dist/build/sleep/sleep 3
+Sleeping 3.0 seconds
+
+real    0m3.002s
+user    0m2.963s
+sys     0m0.022s
